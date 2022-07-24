@@ -1,0 +1,1 @@
+#include "\z\oetav\addons\fatigue\script_component.hpp"

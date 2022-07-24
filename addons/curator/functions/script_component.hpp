@@ -1,0 +1,1 @@
+#include "\z\oetav\addons\curator\script_component.hpp"

@@ -1,0 +1,1 @@
+#include "\z\oetav\addons\safestart\script_component.hpp"

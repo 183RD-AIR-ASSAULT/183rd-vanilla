@@ -1,0 +1,1 @@
+#include "\z\oetav\addons\tasks\script_component.hpp"

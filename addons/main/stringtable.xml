@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OETAV">
+    <Package name="Main">
+        <Key ID="STR_OETAV_Main_Attributes">
+            <English>183rd Attributes</English>
+            <Polish>Atrybuty 183rd</Polish>
+        </Key>
+        <Key ID="STR_OETAV_Main_Category">
+            <English>183rd Air Assault Unit [183rd]</English>
+        </Key>
+        <Key ID="STR_OETAV_Main_Toolbar">
+            <English>183rd Air Assault Unit [183rd]</English>
+        </Key>
+        <Key ID="STR_OETAV_Main_ToolbarWiki">
+            <English>Wiki</English>
+        </Key>
+    </Package>
+</Project>

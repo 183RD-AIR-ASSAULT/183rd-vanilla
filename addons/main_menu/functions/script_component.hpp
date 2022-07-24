@@ -1,0 +1,1 @@
+#include "\z\oetav\addons\main_menu\script_component.hpp"
